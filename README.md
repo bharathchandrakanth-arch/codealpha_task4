@@ -66,7 +66,7 @@ The model is evaluated using:
 - Add real-time sales forecasting capabilities.
 
 ## Author
-Bharath
+Bharath chandrakanth
 
 ## Internship
 CodeAlpha Data Science Internship.
